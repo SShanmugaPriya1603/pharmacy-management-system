@@ -8,9 +8,9 @@ def connect_db():
     try:
         conn = mysql.connector.connect(
             host="localhost",
-            user="admin123",
-            password="priya",
-            database="pharmacy_db"
+            user="YourUsername",
+            password="YourPassword",
+            database="YourDatabase"
         )
         return conn
     except mysql.connector.Error as err:
