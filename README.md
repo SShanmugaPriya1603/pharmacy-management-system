@@ -41,10 +41,10 @@ This is a mini project built using Python (Tkinter + CustomTkinter) and MySQL fo
 
 3. Set up MySQL database manually using the schema shown in the MySQL Database Setup section below.
 
-      CREATE DATABASE pharmacy_db;
-      USE pharmacy_db;
-      
-   CREATE TABLE users (
+ CREATE DATABASE pharmacy_db;
+ USE pharmacy_db;
+
+ CREATE TABLE users (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(100) NOT NULL,
     password VARCHAR(100) NOT NULL,
