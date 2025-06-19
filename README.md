@@ -18,10 +18,6 @@ Features:
 
 Screenshots:
 
-![Login](assets/login.png)
-![Admin Dashboard](assets/admin_dashboard.png)
-![Customer Dashboard](assets/customer_dashboard.png)
-
 > More in the `assets/` folder
 
 🗃️ Database Tables
